@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+}
+
+.rightsection {
+    width: 50%;
+}
+
+.contactform{
+    width: 60%;
+    background: white;
+    border: 1px solid black;
+    height: 300px;
+    margin: 100px auto;
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px #ccc;
+}
